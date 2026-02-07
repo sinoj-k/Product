@@ -1,4 +1,4 @@
-const api_url = "/api/product";
+const api_url = "https://product-pwyg.onrender.com/api/product";
 
 
 function addProduct() {
